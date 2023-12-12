@@ -1,0 +1,9 @@
+.idea/
+lib/
+target/
+h-oa-api/target
+h-oa-core/target
+h-oa-processor/target
+h-oa-access/target
+h-oa-util/target
+*.iml
